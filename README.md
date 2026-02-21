@@ -56,7 +56,9 @@ Languages
 
 
 
-
+![JavaScript-F7DF1E](https://github.com/user-attachments/assets/3622a63e-a785-4671-9c1c-4cd03c03ad27)<div align="center" >
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Shobhit%20Kumar" width="100%"/>
 
 
 
