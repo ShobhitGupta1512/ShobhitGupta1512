@@ -2,7 +2,7 @@
   
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Shobhit%20Kumar" width="100%"/>
 
-### 🚀 𝐁.𝐓𝐞𝐜𝐡 𝐂𝐒𝐄 𝐒𝐭𝐮𝐝𝐞𝐧𝐭 | 𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 | 𝐆𝐀𝐓𝐄 𝐀𝐬𝐩𝐢𝐫𝐚𝐧𝐭 | 𝐓𝐞𝐜𝐡 𝐄𝐧𝐭𝐡𝐮𝐬𝐢𝐚𝐬𝐭
+### 🚀 𝐁.𝐓𝐞𝐜𝐡 𝐂𝐒𝐄 𝐒𝐭𝐮𝐝𝐞𝐧𝐭 | 𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 | 𝐓𝐞𝐜𝐡 𝐄𝐧𝐭𝐡𝐮𝐬𝐢𝐚𝐬𝐭 |𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐀𝐈, 𝐁𝐮𝐢𝐥𝐝𝐢𝐧𝐠 𝐈𝐧𝐭𝐞𝐥𝐥𝐢𝐠𝐞𝐧𝐜𝐞
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ShobhitGupta1512&color=blueviolet&style=flat-square)](https://github.com/ShobhitGupta1512)
 [![Followers](https://img.shields.io/github/followers/ShobhitGupta1512?label=Followers&style=flat-square&color=blue&logo=github)](https://github.com/ShobhitGupta1512?tab=followers)
@@ -14,13 +14,13 @@
 
 <div align="center">
   
-<a href="https://shobhitkumar.vercel.app" target="_blank">
+<a href="https://shobhitdev.online" target="_blank">
   <img src="https://img.shields.io/badge/PORTFOLIO-%2300c749.svg?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a1a" />
 </a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shobhit115/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shobhitkumar-webdev/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shobhitkumargupta1111@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/vgxCNyiIv3/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/shobhit1512/)
 
 </div>
 
