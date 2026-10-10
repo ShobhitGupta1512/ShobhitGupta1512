@@ -75,7 +75,7 @@ I'm Shobhit Kumar, a Computer Science and Engineering student interested in buil
 ### AI, Development Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=,git,github,postman,vscode,vercel" alt="Git, GitHub, Postman, VS Code, Vercel"/>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel" alt="Git, GitHub, Postman, VS Code, Vercel"/>
 </p>
 
 ---
